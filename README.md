@@ -8,7 +8,7 @@ You can set up this app by following these steps:
 
 ## 1. Prerequisites
 
-- Ensure that you have followed all the instructions provided [here](https://github.com/sneakpeak-git)
+- Ensure that you have followed all instructions provided [here](https://github.com/sneakpeak-git)
 - This project needs [Data API](https://github.com/sneakpeak-git/sneakpeak-api-data) to run. Make sure it is running before proceeding.
 
 ## 2. Set Up Dependencies
