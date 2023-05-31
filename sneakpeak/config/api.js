@@ -1,3 +1,3 @@
 export default {
-    host: 'http://192.168.0.128:3000'
+    host: 'http://10.23.2.128:3000'
 }

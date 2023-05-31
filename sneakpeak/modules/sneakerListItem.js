@@ -6,7 +6,7 @@ export default function SneakerListItem(props) {
     return <TouchableOpacity onPress={() => console.log('click!!')}>
                 <View style={styles.itemContainer}>
                     <Image
-                    source={{uri: props.item.Images[0] ? props.item.Images[props.item.Images.length - 1].link : 'https://payload.cargocollective.com/1/16/536584/8653252/FILFURY-Phil-Robson-Size-93-Mark_o.jpg'}}
+                    source={{uri: props.item.Images[0] ? props.item.Images[0].link : 'https://payload.cargocollective.com/1/16/536584/8653252/FILFURY-Phil-Robson-Size-93-Mark_o.jpg'}}
                     style={{width: 130, 
                             height: 130,
                     }}
