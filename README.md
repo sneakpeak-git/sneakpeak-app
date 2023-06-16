@@ -25,12 +25,12 @@ You also need to create a test account in order to enable frontend auth testing.
 
 This project uses config files which need to be created manually to connect to your Firebase project and Data API.
 
-- Go to `/sneakpeak/src/config` and rename *api.js.example* to *api.js*
+- Go to `/sneakpeak/src/config` and rename **api.js.example** to **api.js**
 - Replace the host address with the address of your Data API instance (for example `http://localhost:3000` if you are running it locally)
-- Go to `/sneakpeak/src/firebase` and rename *config.js.example* to *config.js*
+- Go to `/sneakpeak/src/firebase` and rename **config.js.example** to **config.js**
 - Navigate to [Firebase Console](https://console.firebase.google.com) and go to your Project Settings
 - Scroll down and choose 'Config' under SDK setup and configuration
-- Replace the values in your *config.js* file with the ones from that snippet
+- Replace the values in your **config.js** file with the ones from that snippet
 
 ## 2. Set Up Dependencies
 
