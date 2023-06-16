@@ -60,7 +60,10 @@ These tests are located in `/sneakpeak/cypress/e2e`. You can write more tests or
 
 ### Automatic testing
 
-- To run tests automatically, run `yarn test`. This initializes all test from the `e2e` folder and saves the recording of the test to `/sneakpeak/cypress/videos`.
+- To run tests automatically, run `yarn test`. This initializes all tests from the `e2e` folder and saves the recording of the test to `/sneakpeak/cypress/videos`.
+
+This is an example of a test video:
+
 
 ### Manual tests
 
