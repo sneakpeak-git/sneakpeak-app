@@ -1,10 +1,12 @@
-# SneakPeak Expo App
+# SneakPeak React App
 
-The Web/Mobile user frontend app.
+The Web user frontend app.
 
-Expo is a JavaScript framework that allows developers to create apps that run on mobile devices and the Web with a single codebase.
+React is a JavaScript library for building user interfaces.
 
 You can set up this app by following these steps:
+
+OLD INSTRUCTIONS!!! CHANGE ASAP
 
 ## 1. Prerequisites
 

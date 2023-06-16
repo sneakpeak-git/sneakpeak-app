@@ -1,0 +1,44 @@
+.header {
+  width: 100vw;
+  height: 50px;
+  background-color: white;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.logoTitle {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
+.headerLink {
+  font-size: 17px;
+  color: black;
+  text-decoration: none;
+}
+.headerLeft {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-right: auto;
+  align-items: center;
+}
+.headerLeft > * {
+  margin-right: 20px;
+}
+.headerRight {
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: 20px;
+  align-items: center;
+}
+.profilePicture {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}

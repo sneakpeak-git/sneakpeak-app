@@ -1,0 +1,38 @@
+.container {
+  max-width: 400px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.sneakerPicture {
+  width: 300px;
+  margin-bottom: 20px;
+  object-fit: contain;
+}
+
+.sneakerName {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.sneakerColor {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.sneakerReleaseDate {
+  font-size: 16px;
+  margin-bottom: 25px;
+  color: #a1a1a1;
+}
+
+.sneakerDescription {
+  font-size: 17px;
+  margin-bottom: 10px;
+  text-align: justify;
+}
