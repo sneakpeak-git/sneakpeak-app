@@ -19,7 +19,7 @@ You also need to create a test account in order to enable frontend auth testing.
 - Register the app and continue to the console
 - Choose 'Authentication' and then 'Get started'
 - Enable Google and Email/Password as authentication providers
-- Go to the 'Users' tab and add a new user with email 'test@sneak.peak' and password 'sptest'
+- Go to the 'Users' tab and add a new user with email `test@sneak.peak` and password `sptest`
 
 ### Create config files
 
