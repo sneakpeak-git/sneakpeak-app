@@ -1,17 +1,17 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # videos and screenshots
-/cypress/**/*.mp4
-/cypress/**/*.png
+.mp4
+.png
 
 # api hostname file
-/src/config/api.js
+api.js
 
 # firebase config
 /src/firebase/config.js
 
 # dependencies
-/node_modules
+node_modules
 /.pnp
 .pnp.js
 
