@@ -1,14 +1,14 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # videos and screenshots
-*.cy.mp4
-*.cy.png
+*.cy.js.mp4
+*.cy.js.png
 
 # api hostname file
 api.js
 
 # firebase config
-config.js
+*/firebase/config.js
 
 # dependencies
 node_modules
